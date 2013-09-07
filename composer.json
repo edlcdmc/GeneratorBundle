@@ -1,0 +1,20 @@
+{
+    "name":         "edlcdmc/edlcdmc-generator-bundle",
+    "description":  "My generator",
+    "keywords":     ["generator"],
+    "type":         "symfony-bundle",
+    "license":      "MIT",
+    "authors":      [
+        {
+            "name":     "Edlcdmc",
+            "email":    "edlcdmc@gmail.com"
+        }
+    ],
+    "require":      {
+        "symfony/framework-bundle": "~2.3"
+    },
+    "autoload":     {
+        "psr-0": { "Edlcdmc\\Bundle\\GeneratorBundle": "" }
+    },
+    "target-dir": "Edlcdmc/Bundle/GeneratorBundle"
+}
