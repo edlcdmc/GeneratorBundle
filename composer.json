@@ -1,5 +1,5 @@
 {
-    "name":         "edlcdmc/edlcdmc-generator-bundle",
+    "name":         "edlcdmc/generator-bundle",
     "description":  "My generator",
     "keywords":     ["generator"],
     "type":         "symfony-bundle",
